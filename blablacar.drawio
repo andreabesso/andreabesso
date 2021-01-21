@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-21T11:15:55.973Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="BMW8ZqXIjM25cJ-IIgPF" version="14.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-21T11:16:27.023Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="CuuTNCtJxbQc7nDdEmA8" version="14.2.6" type="github">
   <diagram id="REBn7ORxmZi0j5MmjeSG" name="Page-1">
     <mxGraphModel dx="1304" dy="612" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,7 +391,7 @@
         <mxCell id="eoMWa7fhNSi66_B86EyW-43" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="eoMWa7fhNSi66_B86EyW-42">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eoMWa7fhNSi66_B86EyW-44" value="maxpasseggeri" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="eoMWa7fhNSi66_B86EyW-42">
+        <mxCell id="eoMWa7fhNSi66_B86EyW-44" value="max_passeggeri" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="eoMWa7fhNSi66_B86EyW-42">
           <mxGeometry x="30" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eoMWa7fhNSi66_B86EyW-45" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=0;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="eoMWa7fhNSi66_B86EyW-23">
